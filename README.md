@@ -2,7 +2,7 @@
 
 ## Overview
 
-I investigated whether there was any bias towards reviews written as part of the Vine Program from Amazon™.
+I investigated whether there was any bias towards reviews written as part of the Vine Program from Amazon, INC.
 
 To do this, I used Google Colaboratory as well as Pyspark to perform the Extract, Transform and Load process. I also loaded the data into a relational database in PGAdmin. Lastly, I created filtered dataframes from the original dataset after processing to discover any bias with vine reviews.
 
