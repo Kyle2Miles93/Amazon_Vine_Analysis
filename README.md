@@ -2,7 +2,7 @@
 
 ## Overview
 
-I investigated whether there was any bias towards reviews written as part of the Vine Program in Amazon reviews.
+I investigated whether there was any bias towards reviews written as part of the Vine Program from Amazon™.
 
 To do this, I used Google Colaboratory as well as Pyspark to perform the Extract, Transform and Load process. I also loaded the data into a relational database in PGAdmin. Lastly, I created filtered dataframes from the original dataset after processing to discover any bias with vine reviews.
 
@@ -19,7 +19,7 @@ The following output from the notebook shows the results from the filtering:
 * There were **5** five-star rated reviews for the paid vine programs
 * There were **15,784** five star reviews for those that were unpaid
 
-* I calculated the precentage of each type of vine in a percentage and I got these results:
+* I calculated the precentage of each type of vine and got these results:
 
     - 34.62% were five star ratings in the **paid** dataframe...
     - 53.94% were five stars in the **unpaid** dataframe.
