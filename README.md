@@ -29,5 +29,5 @@ The following output from the notebook shows the results from the filtering:
 * There seems to be a strong positivity bias in favor of reviews which are unpaid. 
   - This could be because there are a lot more of them as compared to the ones that are from paid vines.
 
-* Another analysis using this dataset to support the above statement is perhaps a statistical one, like a sample T-Test. 
-* This would show exactly how skewed and biased the results were based on the p-value generated from T-Tests on both paid / unpaid Dataframes.
+* I could perform a sample T-test for further analysis.
+ - A sample T-test would show exactly *how* skewed and biased the results were based on the p-value generated from T-Tests on both paid and unpaid dataframes.
